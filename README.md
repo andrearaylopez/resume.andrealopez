@@ -1,3 +1,4 @@
 # Resume
 
-https://andreadotlopez.github.io/bdaypal.github.io/
+https://andreadotlopez.github.io/Resume-AndreaLopez.github.io/
+
