@@ -1,4 +1,4 @@
 # Resume
 
-https://andreadotlopez.github.io/Resume-AndreaLopez.github.io/
+https://andrealopezdev.github.io/Resume-AndreaLopez.github.io/
 
