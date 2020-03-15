@@ -1,4 +1,3 @@
 # Resume
-
-https://andrealopezdev.github.io/resume
+  resume.andrealopez.dev/
 
