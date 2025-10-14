@@ -1,3 +1,3 @@
 # Resume
-  resume.andrealopez.dev/
+  resume.andrearaylopez.com/
 
