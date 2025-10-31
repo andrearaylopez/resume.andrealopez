@@ -1,3 +1,1 @@
 # Resume
-  resume.andrearaylopez.com/
-
